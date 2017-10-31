@@ -1,0 +1,60 @@
+﻿.jumbotron {
+    /*background-image: url(https://cache.mrporter.com/journal-images/production/7d77a0d4-bed5-4dbc-a5dd-aca8dbd3029e);*/
+}
+
+
+/* latin-ext */
+@font-face {
+    font-family: 'Shadows Into Light Two'!Important;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Shadows Into Light Two'), local('ShadowsIntoLightTwo-Regular'), url(https://fonts.gstatic.com/s/shadowsintolighttwo/v4/gDxHeefcXIo-lOuZFCn2xenscRtSKpe8kU3MLeG_mRh_v5H-gcmDugi2HQeB0BPm.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+    font-family: 'Shadows Into Light Two'!important;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Shadows Into Light Two'), local('ShadowsIntoLightTwo-Regular'), url(https://fonts.gstatic.com/s/shadowsintolighttwo/v4/gDxHeefcXIo-lOuZFCn2xVbBQNzAwd3E4WXIZWrwe_7r7w4p9aSvGirXi6XmeXNA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+
+
+body {
+    padding-bottom: 20px;
+    font-family: 'Shadows Into Light Two', monospace!important;
+    /*background-image: url(https://cache.mrporter.com/journal-images/production/7d77a0d4-bed5-4dbc-a5dd-aca8dbd3029e);*/
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}

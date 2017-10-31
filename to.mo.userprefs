@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B6B52EE7-6303-47C8-8CA6-D772A1C852FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/css/site.css">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ProductAddController.cs" Line="25" Column="40" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="18" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="6" Column="2" />
+      <File FileName="Controllers/ManageController.cs" Line="48" Column="18" />
+      <File FileName="Controllers/AccountController.cs" Line="48" Column="28" />
+      <File FileName="Views/_ViewStart.cshtml" Line="2" Column="5" />
+      <File FileName="Startup.cs" Line="39" Column="13" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="26" Column="65" />
+      <File FileName="Controllers/HomeController.cs" Line="30" Column="4" />
+      <File FileName="Views/Shared/_LoginPartial.cshtml" Line="13" Column="120" />
+      <File FileName="wwwroot/css/site.css" Line="3" Column="2" />
+      <File FileName="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" Line="1" Column="1" />
+      <File FileName="wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.to.mo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
